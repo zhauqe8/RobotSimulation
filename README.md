@@ -30,4 +30,4 @@ It expects input commands in a **.input** extension file and their corresponding
 in the same named text file but with **.output** extension. The test data must reside in **TestData** directory
 and the script must be run from **build** directory.
 
->cd build; python ../IntegrationTests.py
+>python ../IntegrationTests.py #in build directory
