@@ -21,5 +21,6 @@ def runTests():
 
 if __name__ == "__main__":
     runTests()
+    print('Passed')
 
 
