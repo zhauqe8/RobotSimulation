@@ -20,7 +20,7 @@ pass the input file as first argument.
 
 Unit tests
 ----------
-Unit tests are build into the **UnitTests** executable. It does not take any argument
+Unit tests are built into the **UnitTests** executable. It does not take any argument
 and prints **Passed** if all tests pass.
 
 Integration tests
